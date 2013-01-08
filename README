@@ -15,3 +15,6 @@ This program is released under the GNU General Public License (GPL) version 2, s
 How to build & test
 ========================
 sudo python setup.py install
+
+Create branch understand
+===========================
